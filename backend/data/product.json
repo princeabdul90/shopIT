@@ -1,0 +1,144 @@
+[
+  {
+    "name": "CAN USB FD Adapter (GC-CAN-USB-FD)",
+    "price": "315.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien et ligula ullamcorper malesuada proin libero nunc consequat. Ipsum nunc aliquet bibendum enim facilisis gravida. Mauris nunc congue nisi vitae suscipit. Viverra aliquet eget sit amet tellus. Nec nam aliquam sem et tortor consequat id porta nibh. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam vestibulum morbi blandit cursus risus. Erat pellentesque adipiscing commodo elit at imperdiet dui. Suscipit tellus mauris a diam.",
+    "ratings": 4.5,
+    "images":[
+      {
+      "public_id":"products/bzqzf75ohnhaqqtebh72",
+      "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281323/products/bzqzf75ohnhaqqtebh72.jpg"
+      },
+      {
+        "public_id":"products/ospbjy5asmnxmlocz9bt",
+        "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281327/products/ospbjy5asmnxmlocz9bt.jpg"
+        }
+  ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "user": "610b364742acce53b07b1ace"
+  },
+  {
+    "name": "SanDisk ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+    "price": "45.89",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien et ligula ullamcorper malesuada proin libero nunc consequat. Ipsum nunc aliquet bibendum enim facilisis gravida. Mauris nunc congue nisi vitae suscipit. Viverra aliquet eget sit amet tellus. Nec nam aliquam sem et tortor consequat id porta nibh. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam vestibulum morbi blandit cursus risus. Erat pellentesque adipiscing commodo elit at imperdiet dui. Suscipit tellus mauris a diam.",
+    "ratings": 4.5,
+    "images":[
+      {
+        "public_id":"products/vy7wgg41c6wg6xwa1lqy",
+        "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627262398/products/vy7wgg41c6wg6xwa1lqy.png"
+      },
+      {
+        "public_id":"products/bnc1ytvyhxn1nv4jwbm8",
+        "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627262400/products/bnc1ytvyhxn1nv4jwbm8.png"
+        }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "user": "610b364742acce53b07b1ace"
+  },
+  {
+    "name": "Apple Airpods with Charging Case (Wired)",
+    "price": "126.99",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien et ligula ullamcorper malesuada proin libero nunc consequat. Ipsum nunc aliquet bibendum enim facilisis gravida. Mauris nunc congue nisi vitae suscipit. Viverra aliquet eget sit amet tellus. Nec nam aliquam sem et tortor consequat id porta nibh. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam vestibulum morbi blandit cursus risus. Erat pellentesque adipiscing commodo elit at imperdiet dui. Suscipit tellus mauris a diam.",
+    "ratings": 4.8,
+    "images":[
+      {
+        "public_id":"products/k55k0loytpluxypsnn4g",
+        "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627264887/products/k55k0loytpluxypsnn4g.jpg"
+        },
+        {
+          "public_id":"products/ysawfzwamasn0cdgmbye",
+          "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627264889/products/ysawfzwamasn0cdgmbye.jpg"
+        }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 122,
+    "numOfReviews": 2632,
+    "reviews": [],
+    "user": "610b364742acce53b07b1ace"
+  },
+  {
+    "name": "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black",
+    "price": "495.95",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien et ligula ullamcorper malesuada proin libero nunc consequat. Ipsum nunc aliquet bibendum enim facilisis gravida. Mauris nunc congue nisi vitae suscipit. Viverra aliquet eget sit amet tellus. Nec nam aliquam sem et tortor consequat id porta nibh. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam vestibulum morbi blandit cursus risus. Erat pellentesque adipiscing commodo elit at imperdiet dui. Suscipit tellus mauris a diam.",
+    "ratings": 4.5,
+    "images":[
+      {
+        "public_id":"products/b59xbqlq5uox5ncg0jnn",
+        "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627265063/products/b59xbqlq5uox5ncg0jnn.jpg"
+      },
+      {
+        "public_id":"products/eg8irbxgyjt5is9vxilm",
+        "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627265066/products/eg8irbxgyjt5is9vxilm.jpg"},
+      {
+        "public_id":"products/m39wjmvwqoxvrdzognwi",
+        "url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627265068/products/m39wjmvwqoxvrdzognwi.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "user": "610b364742acce53b07b1ace"
+  },
+  {
+    "name": "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
+    "price": "27.99",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien et ligula ullamcorper malesuada proin libero nunc consequat. Ipsum nunc aliquet bibendum enim facilisis gravida. Mauris nunc congue nisi vitae suscipit. Viverra aliquet eget sit amet tellus. Nec nam aliquam sem et tortor consequat id porta nibh. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam vestibulum morbi blandit cursus risus. Erat pellentesque adipiscing commodo elit at imperdiet dui. Suscipit tellus mauris a diam.",
+    "ratings": 4.1,
+    "images":[
+      {"public_id":"products/rt6otgyhoejga357rfca","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281624/products/rt6otgyhoejga357rfca.jpg"},
+      {"public_id":"products/nkcvbwcvrdaeeofbikhn","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281628/products/nkcvbwcvrdaeeofbikhn.jpg"},
+      {"public_id":"products/hb1fabhxhgx72ka0j6wb","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281632/products/hb1fabhxhgx72ka0j6wb.jpg"}
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "user": "610b364742acce53b07b1ace"
+  },
+  {
+    "name": "Apple Macbook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray",
+    "price": "949.99",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien et ligula ullamcorper malesuada proin libero nunc consequat. Ipsum nunc aliquet bibendum enim facilisis gravida. Mauris nunc congue nisi vitae suscipit. Viverra aliquet eget sit amet tellus. Nec nam aliquam sem et tortor consequat id porta nibh. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam vestibulum morbi blandit cursus risus. Erat pellentesque adipiscing commodo elit at imperdiet dui. Suscipit tellus mauris a diam.",
+    "ratings": 4.9,
+    "images":[
+      {"public_id":"products/rt6otgyhoejga357rfca","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281624/products/rt6otgyhoejga357rfca.jpg"},
+      {"public_id":"products/nkcvbwcvrdaeeofbikhn","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281628/products/nkcvbwcvrdaeeofbikhn.jpg"},
+      {"public_id":"products/hb1fabhxhgx72ka0j6wb","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281632/products/hb1fabhxhgx72ka0j6wb.jpg"}
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "user": "610b364742acce53b07b1ace"
+  },
+  {
+    "name": "Kauffman Orchards Homegrown McIntosh Apples",
+    "price": "2.75",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sapien et ligula ullamcorper malesuada proin libero nunc consequat. Ipsum nunc aliquet bibendum enim facilisis gravida. Mauris nunc congue nisi vitae suscipit. Viverra aliquet eget sit amet tellus. Nec nam aliquam sem et tortor consequat id porta nibh. Proin libero nunc consequat interdum varius sit amet mattis. Aliquam vestibulum morbi blandit cursus risus. Erat pellentesque adipiscing commodo elit at imperdiet dui. Suscipit tellus mauris a diam.",
+    "ratings": 4.5,
+    "images":[
+      {"public_id":"products/rt6otgyhoejga357rfca","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281624/products/rt6otgyhoejga357rfca.jpg"},
+      {"public_id":"products/nkcvbwcvrdaeeofbikhn","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281628/products/nkcvbwcvrdaeeofbikhn.jpg"},
+      {"public_id":"products/hb1fabhxhgx72ka0j6wb","url":"https://res.cloudinary.com/duqg7fuhi/image/upload/v1627281632/products/hb1fabhxhgx72ka0j6wb.jpg"}
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": [],
+    "user": "610b364742acce53b07b1ace"
+  }
+]
